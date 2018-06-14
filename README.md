@@ -4,7 +4,7 @@ Panduan ini merupakan hasil rangkuman dari ebook The Swift Programming Language 
 
 ## Daftar Isi
 - [Selamat Datang Swift](https://github.com/ramdanix/swift-41-bahasa-indonesia#selamat-datang-swift)
-    - Tentang Swift
+    - [Tentang Swift](https://github.com/ramdanix/swift-41-bahasa-indonesia#tentang-swift)
     - Versi Kompabilitas
     - Perjalanan Swift
 - Panduan Bahasa
