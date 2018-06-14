@@ -1,5 +1,7 @@
 # Swift 4.1 Programming Fundamental (Bahasa Indonesia)
 
+Panduan ini merupakan hasil rangkuman dari ebook The Swift Programming Language (Swift 4.1) dari Apple yang diterjemahkan kedalam bahasa Indonesia , sehingga pada developer terutama iOS Developer yang baru terjun ke dunia aplikasi berbasis iOS dapat dengan mudah mempelajari dasar-dasar bahasa pemrograman swift ini.
+
 ## Daftar Isi
 - Selamat Datang Swift
     - Tentang Swift
@@ -21,7 +23,7 @@
     - Inheritance
     - Initialization
     - Deinitialization
-    - Optional Chaining
+    - Penggabungan Opsional
     - Penanganan Error
     - Tipe Casting
     - Nested Types
@@ -34,7 +36,23 @@
     - Operator Tingkat Lanjut
 
 ## Selamat Datang Swift
-lorem  
+
+Swift adalah suatu cara fantastis untuk menuliskan perangkat lunak, baik itu untuk ponsel, desktop, server atau apapun yang menjalankan code. Swift merupakan bahasa pemrograman yang aman, cepat, dan interaktif yang menggabungkan dengan pemikiran bahasa modern terbaik dengan kebijaksanaan dari Apple Engineerng yang lebih luas dan kontribusi beragam dari komunitas open-source-nya. Compiler dioptimasi untuk performens dan bahasa dioptimasi untuk development. 
+
+Swift sangat friendly dengan programmer baru dan bahasa pemrograman yang berkualitas industri yang ekspresif dan menyenangkan sebagai bahasa scripting. Kamu dapat bereksperimen dengan menulis kode pada Playground dan dapat melihat hasilnya secara langsung tanpa harus membuild code terlebih dahulu dan menjalankan aplikasi.
+
+Swift mendefinisikan kelas besar dari kesalahan umum pada programming dengan mengadopsi pola pemrograman modern seperti:
+- Variabel selalu di inisialisasi sebelum digunakan
+- Indikasi array dicek untuk kesalahan diluar batas
+- Integer dicek untuk overflow
+- Opsional memastikan bahwa nilai ``nil`` atau kosong ditangani secara eksplisit.
+- Memori dikelola secara otomatis
+- Penanganan Error atau Error Handling mengijinkan untuk pengontrollan perbaikan dari kegagalan yang tak terduga
+
+Kode Swift dikompilasi dan dioptimasi guna mendapatkan hasil yang maksimal dari perangkat keras. Syntaks dan standar library yang dirancang berdasarkan prinsip bahwa cara yang jelas untuk menulis kode Anda juga harus melakukan yang terbaik. Kombinasi dari keamanan dan kecepatannya membuat swift pilihan yang sangat bagus untuk apapun dari "Hello World" untuk masuk kedalam sistem operasi.
+
+Swift menggabungkan type inference dan pattern matching secara kuat dengan syntax yang moderen dan ringan , mengijinkan ide yang komplex untuk diungkapkan dengan cara yang jelas dan ringkas. Hasilnya kode tidak hanya mudah untuk ditulis namun mudah untuk dibaca dan diperbaiki secara baik.
+
 
 ### Tentang Swift
 lorem
@@ -92,7 +110,7 @@ lorem
 ### Deinitialization
 lorem
 
-### Optional Chaining
+### Penggabungan Opsional
 lorem
 
 ### Penganan Error
