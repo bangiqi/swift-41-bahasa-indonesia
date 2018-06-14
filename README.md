@@ -1,6 +1,6 @@
 # Swift 4.1 Programming Fundamental (Bahasa Indonesia)
 
-Panduan ini merupakan hasil rangkuman dari ebook The Swift Programming Language (Swift 4.1) dari Apple yang diterjemahkan kedalam bahasa Indonesia , sehingga pada developer terutama iOS Developer yang baru terjun ke dunia aplikasi berbasis iOS dapat dengan mudah mempelajari dasar-dasar bahasa pemrograman swift ini.
+Panduan ini merupakan hasil rangkuman dari ebook The Swift Programming Language (Swift 4.1) dari Apple yang diterjemahkan kedalam bahasa Indonesia , yang bertujuan untuk memudahkan para developer terutama iOS developer yang baru terjun ke dunia aplikasi berbasis iOS dapat dengan mudah mempelajari dasar-dasar bahasa pemrograman swift ini.
 
 ## Daftar Isi
 - Selamat Datang Swift
